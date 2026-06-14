@@ -3,7 +3,7 @@ Repositorio colaborativo para la Etapa 1 del curso Programación para Videojuego
 
 ## Karen Natalia Fresneda Florez
 
-![Mi imagen](Karen/fotokaren.jpg)
+![Mi imagen Karen](fotokaren.jpg)
 
 ROL:
 Artista digital y diseñadora de entorno 3D en programas como Unity, ideal para diseñar la historia, reglas, mecanicas y experiencias del usuario dentro del juego.
