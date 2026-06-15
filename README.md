@@ -1,5 +1,6 @@
 Repositorio colaborativo para la Etapa 1 del curso Programación para Videojuegos.
 Cristian Andrés Rodríguez Corchuelo
+
 <img width="459" height="589" alt="cr1" src="https://github.com/user-attachments/assets/678e680e-6493-4be6-80bc-1080af50b0f2" />
 
 Rol, Dentro de los roles existentes en un proyecto como lo es la creación de un videojuego...me identifico mucho con el rol de arquitecto ya que comprende esta función Diseñador de Narrativa: Si te apasionan las historias, te encargarás de la trama, los diálogos y la tradición (lore) del mundo del juego
