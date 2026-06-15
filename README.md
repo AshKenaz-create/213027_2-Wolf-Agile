@@ -8,3 +8,5 @@ Rol, Dentro de los roles existentes en un proyecto como lo es la creación de un
 Rol, Dentro de mi experiencia y formación dentro de la UNAD me he podido desempeñar en las labores de producer o (Sound Designer) ya que estos roles comprenden El organizador. Gestiona el cronograma, el presupuesto y los recursos para que el equipo pueda cumplir con los plazos sin morir en el intento y Crea la atmósfera auditiva. Desde el siseo del viento hasta el estruendo de una explosión, pasando por la música que te pone los pelos de punta.
 
 Cordial saludo para tod@s mi nombre es Cristian Andrés Rodríguez Corchuelo, tengo 29 años, soy un artista, me gusta el dibujo y la música, como por ejemplo retratar y tocar piano, guitarra y cantar, actualmente estoy realizando la tecnología en producción de audio e Ingeniería Multimedia, programas inscritos en la escuela de Ciencias Básicas Tecnologías e Ingenierías y estaré aquí con mucho interés y compromiso en el desarrollo de este programa.
+
+Plato favorito: Pataconada de camarones: ingredientes:platano hartón entre maduro y verde, camarones, cebolla, tomate, cilantro, mayonesa, salsa de tomate, siracha, limon, aguacate. 
