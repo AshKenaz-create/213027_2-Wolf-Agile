@@ -21,6 +21,24 @@ Desde el rol de Game Designer, me llama la atención la parte creativa y de plan
 
 ---
 
+### Karen Natalia Fresneda Florez
+
+![Mi imagen Karen](Karen/fotokaren.jpg)
+
+**ROL:**  
+Artista digital y diseñadora de entorno 3D en programas como Unity, ideal para diseñar la historia, reglas, mecanicas y experiencias del usuario dentro del juego.
+
+**UBICACIÓN:**  
+Cundinamarca, Colombia.
+
+**DESCRIPCIÓN:**  
+Tengo 21 años y actuamente me encuentro en el programa de Ingeniería Multimedia con mayor enfoque en el diseño digital, animación y el modelado en 3D. Además, practico la ilutración tradicional y digital. Puedo llevar a cratividad a diferentes areas como por ejemplo, la creación de personajes para videojuegos.
+
+**Plato favorito:**  
+Mi plato favorito son los tacos.
+
+---
+
 ### Ana Maria Ordoñez Rincon
 
 <img src="./Ana ordonez/foto mia.jpeg" alt="esta soy yo" width="400">
