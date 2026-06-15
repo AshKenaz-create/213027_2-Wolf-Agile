@@ -41,7 +41,7 @@ Mi plato favorito son los tacos.
 
 ### Ana Maria Ordoñez Rincon
 
-<img src="./Ana ordonez/foto mia.jpeg" alt="esta soy yo" width="400">
+<img src="https://raw.githubusercontent.com/AshKenaz-create/213027_2-Wolf-Agile/Ana/Ana%20ordonez/foto%20mia.jpeg" alt="esta soy yo" width="400">
 
 **ROL**  
 mi rol principalmente siempre ha sido de diseño de interfaz o producción 2d o 3d de personajes y entorno, pero me adapto a lo que se necesite dentro del proyecto
